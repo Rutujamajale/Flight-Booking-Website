@@ -1,0 +1,171 @@
+.headerMainDiv{
+  height: auto;
+  width: auto;
+  /* border: 1px solid black; */
+  margin: auto;
+  background-color: cadetblue;
+  padding: 0.5px;
+ 
+  
+}
+.HeaderPage{
+  height: 50px;
+  width: auto;
+  margin: auto;
+  background-color:cadetblue;
+
+}
+.headertext{
+  color: black;
+  font-size: 15px;
+  display: flex;
+  text-align: left;
+  align-items: left;
+  justify-content: center;
+ 
+  width: 300px;
+  margin-left: 50px;
+  margin-top: 20px;
+
+}
+.button{
+  height: auto;
+  width: 200px;
+  display: flex;
+  margin-left:700px;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+ 
+}
+.headerButton{
+  margin-right: 10px;
+}
+/* ================== */
+.Styleinput{
+  border: 1px solid black;
+  border-radius: 5px;
+  width: auto;
+}
+.searchFlightDiv{
+  height: auto;
+  width: 80%;
+  margin: auto;
+  margin-top: 15px;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+  
+ 
+}
+.tableStyle{
+  border-collapse: collapse;
+  width: 100%; 
+  border: 1px solid black;
+   margin-top: 10px;
+}
+.tableHeading{
+  padding: 8px; 
+  border: 1px solid black;
+  align-items: center;
+
+}
+.ButtonStyle{
+  display: flex;
+  justify-content: center; /* Horizontally center the button */
+  align-items: center; /* Vertically center the button */
+  height: 100%;
+}
+.searchFlightSubDiv{
+  height: auto;
+  width: auto;
+  /* border: 1px solid black; */
+  padding: 10px;
+  background-color:white;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1), 0px -4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+/* ============================== */
+
+.background{
+  background-image: url('https://www.shutterstock.com/shutterstock/photos/1782418211/display_1500/stock-photo-close-up-female-hand-holds-levitating-template-mockup-bank-credit-card-with-online-service-isolated-1782418211.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
+  
+}
+.mainPaymentPage{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  
+  background-image: url("https://bloximages.newyork1.vip.townnews.com/breezejmu.org/content/tncms/assets/v3/editorial/1/1a/11a2e91c-3e09-11ee-b313-a3d8457c13e3/64dfd9eca0d7c.image.jpg?resize=1200%2C900");
+}
+.paymentPage{
+  height: auto;
+  width: 300px;
+  margin: auto;
+ 
+  /* border: 1px solid black; */
+  
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color:white;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1), 0px -4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+ 
+
+}
+.paymentDiv{
+  display: flex;
+}
+.sucessfulPage{
+  height: auto;
+  width: 500px;
+  margin: auto;
+  /* border: 1px solid black; */
+  margin-top: 200px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color:white;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1), 0px -4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1;
+}
+.BookFlight{
+  height: auto;
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+  border: 1px solid black;
+  text-align: center;
+  background-image: url("https://img.freepik.com/free-photo/top-view-airplane-with-copy-space_23-2148608798.jpg");
+  background-position: center;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1), 0px -4px 8px rgba(0, 0, 0, 0.1);
+  
+
+}
+.userDetails{
+  height: auto;
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+  text-align: center;
+}
+.bookFlightButton{
+  height: auto;
+  width: 100px; /* Set the width of the button */
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
+
+
+

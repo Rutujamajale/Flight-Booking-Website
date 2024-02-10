@@ -1,0 +1,21 @@
+.HeaderPage{
+    height: 50px;
+    width: auto;
+    margin: auto;
+    background-color:cadetblue;
+
+}
+.headertext{
+    color: black;
+    font-size: 10px;
+    text-align: center;
+}
+.button{
+    background-color: cadetblue;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    text-align: center;
+}
